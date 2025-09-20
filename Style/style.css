@@ -683,7 +683,7 @@ video {
   line-height: 1.25rem;
   --tw-text-opacity: 1;
   color: rgb(113 113 122 / var(--tw-text-opacity));
-  --tw-content: "ادامه دهید با";
+  --tw-content: "Continue with";
   content: var(--tw-content);
 }
 
